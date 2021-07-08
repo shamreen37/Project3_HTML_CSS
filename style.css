@@ -341,7 +341,7 @@ pre {
     .showcase-form {
         justify-self: center;
         margin: auto;
-        width: 92%;
+        width: 91%;
         animation: slideBottom 1s ease-in-out;
     }
     .cli .grid>*:first-child {
